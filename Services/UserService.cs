@@ -7,6 +7,9 @@ namespace SSBackend.Services
 {
     public class UserService
     {
-        
+        public UserService()
+        {
+            
+        }
     }
 }
