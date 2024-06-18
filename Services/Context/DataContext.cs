@@ -7,6 +7,9 @@ namespace SSBackend.Services.Context
 {
     public class DataContext
     {
-        
+        public DataContext()
+        {
+            
+        }
     }
 }
